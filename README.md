@@ -1,5 +1,5 @@
 ![logo](https://github.com/Vaibhavii3/Vaibhavii3/blob/main/stars1.jpg)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vaibhavii3.vaibhavii3" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Vaibhavii3.Vaibhavii3" />
 <h1 align="center">Hi 👋, I'm Vaibhavi Chaudhari</h1>
 <h3 align="center">Data Analytics | Power BI | Python | AI ML | 3D Modelling</h3>
 <img align="right" alt="analytics" width="400" src="https://miro.medium.com/v2/1*Owa2rsDG6Rwv1IM_RdsL3A.gif">
