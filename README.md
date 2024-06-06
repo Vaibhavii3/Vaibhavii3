@@ -17,7 +17,7 @@ I'm a passionate developer with a focus on full-stack development. I love creati
 
 ### Contact
 
-- **LinkedIn:** [https://www.linkedin.com/in/vaibhavi-chaudhari-1b003120b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- **LinkedIn:** [https://www.linkedin.com/in/vaibhavi-chaudhari-1b003120b]
 - **Email:** vaibhavichaudhari304@gmail.com
 
 Feel free to reach out if you have any questions or if you would like to collaborate on a project!
