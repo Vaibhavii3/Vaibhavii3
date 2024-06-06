@@ -1,4 +1,4 @@
-### Hi, I'm Vaibhavi! 👋
+### :octocat: Hi, I'm Vaibhavi! 👋
 
 I'm a passionate developer with a focus on full-stack development. I love creating efficient and innovative solutions to complex problems.
 
