@@ -1,10 +1,10 @@
 ### :octocat: Hi, I'm Vaibhavi! 👋
 
-I'm a passionate developer with a focus on full-stack development. I love creating efficient and innovative solutions to complex problems.
+              I'm a passionate developer with a focus on full-stack development. I love creating efficient and innovative solutions to complex problems.
 
 ### :mortar_board: Education
 
-- **Bachelor of Engineering in Computer Science and Engineering**
+  **Bachelor of Engineering in Computer Science and Engineering**
   - Minor in Artificial Intelligence and Machine Learning
   - [Gujarat Technological University], [2024]
 
