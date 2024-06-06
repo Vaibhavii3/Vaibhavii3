@@ -8,18 +8,6 @@ I'm a passionate developer with a focus on full-stack development. I love creati
   - Minor in Artificial Intelligence and Machine Learning
   - [Gujarat Technological University], [2024]
 
-### Skills
-
-- **Programming Languages:** JavaScript, Python
-- **Frameworks and Libraries:** Bootstrap
-- **Tools and Platforms:** Git
-- **Databases:** MySQL
-
-### Contact
-
-- **LinkedIn:** [https://www.linkedin.com/in/vaibhavi-chaudhari-1b003120b]
-- **Email:** vaibhavichaudhari304@gmail.com
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavi-chaudhari-1b003120b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@vaibhu930) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/vaibhavii30) 
 
@@ -29,9 +17,6 @@ I'm a passionate developer with a focus on full-stack development. I love creati
 ![](https://github-readme-stats.vercel.app/api?username=vaibhavii3&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavii3&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavii3&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vaibhavii3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vaibhavii3&limit=5&theme=radical&combine_all_yearly_contributions=true)
