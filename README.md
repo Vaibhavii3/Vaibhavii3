@@ -7,6 +7,8 @@ I'm a passionate developer with a focus on full-stack development. I love creati
 - **Bachelor of Engineering in Computer Science and Engineering**
   - Minor in Artificial Intelligence and Machine Learning
   - [Gujarat Technological University], [2024]
+    
+  <hr>  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavi-chaudhari-1b003120b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@vaibhu930) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/vaibhavii30) 
