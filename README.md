@@ -22,7 +22,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vaibhavii3&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<a href="https://app.daily.dev/vaibhavi30"><img src="./devcard.png" width="356" alt="vaibhavi's Dev Card"/></a>
+
 
 
 [![](https://visitcount.itsvg.in/api?id=vaibhavii3&icon=5&color=10)](https://visitcount.itsvg.in)
