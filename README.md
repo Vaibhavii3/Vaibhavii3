@@ -38,8 +38,6 @@
 
 ### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -58,10 +56,3 @@
 
 </div>
 
-## :mailbox: Get in Touch
-- :email: [Email](mailto:your.email@example.com)
-- :speech_balloon: [Twitter](https://twitter.com/yourusername)
-
----
-
-### :sparkles: *"The only way to do great work is to love what you do."* - Steve Jobs
