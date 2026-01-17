@@ -1,141 +1,138 @@
 <div align="center">
 
-![Sunflower Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Vaibhavi%20Chaudhari&fontSize=50&fontColor=5D4E37&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descSize=20&descAlignY=55)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF9800&center=true&vCenter=true&width=600&lines=🌻+Building+the+Future+with+Code;☕+Powered+by+Chai+and+Curiosity;🚀+Turning+Ideas+into+Reality" alt="Typing SVG" />
+<div align="center">
+
+## 🌻 Hey there! I'm Vaibhavi
+
+### Full-Stack Developer • AI Explorer • Digital Architect
+
+*Building bridges between imagination and implementation*
+
+</div>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vaibhavii3&label=Profile%20Views&color=FFB627&style=for-the-badge)](https://github.com/Vaibhavii3)
-[![Stars](https://img.shields.io/github/stars/vaibhavii3?label=Stars&style=for-the-badge&color=FFD700&logo=github)](https://github.com/Vaibhavii3)
-
+<!-- Glowing About Me Section -->
+<!-- <div align="center"> -->
+<img width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
 
----
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  education: string;
+  currentMission: string[];
+  techPassion: string[];
+  superpower: string;
+  dailyFuel: string;
+  collaborationMode: 'always-on';
+}
 
-<div align="center">
-
-## 🌻 About Me - Like a Sunflower, Always Growing
-
-</div>
-
-```javascript
-const vaibhavi = {
-    role: "Full-Stack Developer & AI Enthusiast",
-    pronouns: "she/her",
-    location: "Gujarat, India 🇮🇳",
-    education: "B.E. in CSE with specialisation in AI/ML",
-    currentFocus: {
-        primary: ["AI Integration", "Full-Stack Development", "Developer Tools"],
-        learning: ["Advanced System Design", "AI Workflows"]
-    },
-    philosophy: "Clean code isn't written by following rules—it's written by someone who cares 💛",
-    superpowers: ["Problem Solving", "Quick Learning", "Building from Scratch"],
-    debuggingFuel: "Chai ☕ + Sunflower Vibes 🌻",
-    codingStyle: "Clean, Efficient, and Well-Documented",
-    collaboration: "Open to innovative projects that create real impact",
-    lifeMotto: "Like a sunflower—always turning towards growth and light 🌻"
+const vaibhavi: Developer = {
+  name: "Vaibhavi Chaudhari",
+  role: "Full-Stack Developer & AI Enthusiast",
+  location: "Gujarat, India 🇮🇳",
+  education: "B.E. in CSE (AI/ML Specialization)",
+  
+  currentMission: [
+    "🎯 Mastering AI Integration",
+    "💻 Crafting Scalable Solutions", 
+    "🚀 Building Developer Tools"
+  ],
+  
+  techPassion: [
+    "Clean Architecture",
+    "User-Centric Design",
+    "Performance Optimization",
+    "Continuous Innovation"
+  ],
+  
+  superpower: "Turning complex problems into elegant solutions",
+  dailyFuel: "Chai ☕ + Curiosity 🔍 + Code 💻",
+  collaborationMode: 'always-on'
 };
 
-console.log(`${vaibhavi.role} ready to create amazing things! 🚀`);
+// Ready to create something amazing? Let's connect! 🚀
+console.log(`${vaibhavi.name}: Building the future, one commit at a time 🌻`);
 ```
 
----
-
 <div align="center">
-
-## 🌐 Let's Connect & Grow Together
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaibhavi%20Chaudhari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavi-chaudhari-1b003120b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FFB627?style=for-the-badge&logo=google-chrome&logoColor=000)](https://vaibhavi-chaudhari.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-@Vaibhavii3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhavii3)
-[![Email](https://img.shields.io/badge/Email-Let's%20Talk-FF9800?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhu930@gmail.com)
-
-</div>
 
 ---
 
-<div align="center">
+## 🎨 My Tech Palette
 
-## 💻 Tech Stack - My Arsenal
+*Tools I use to paint digital masterpieces*
 
 </div>
 
-<details open>
-<summary><b>🧠 Languages & Core Skills</b></summary>
-<br>
+<br/>
+
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+<!-- Languages Section with Icons -->
+### 💬 Languages That Speak My Mind
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000&labelColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
-</details>
 
-<details open>
-<summary><b>⚡ Frontend Development</b></summary>
-<br>
+<br/>
+
 <div align="center">
+
+<!-- Frontend Section -->
+### ⚡ Frontend Arsenal
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-FF8C00?style=for-the-badge&logo=mui&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 </div>
-</details>
 
-<details open>
-<summary><b>🔧 Backend & APIs</b></summary>
-<br>
+<br/>
+
 <div align="center">
+
+<!-- Backend Section -->
+### 🔧 Backend Powerhouse
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-</details>
-
-<details open>
-<summary><b>🗄️ Databases & Storage</b></summary>
-<br>
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity.io-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
 
 </div>
-</details>
 
-<details open>
-<summary><b>🛠️ Developer Tools & Platforms</b></summary>
-<br>
+<br/>
+
 <div align="center">
+
+<!-- Tools Section -->
+### 🛠️ Developer Toolkit
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-</div>
-</details>
-
-<details open>
-<summary><b>🎨 Design & Analytics</b></summary>
-<br>
-<div align="center">
+### 🎨 Design & Analytics
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
@@ -143,52 +140,76 @@ console.log(`${vaibhavi.role} ready to create amazing things! 🚀`);
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 </div>
-</details>
+
+<br/>
 
 ---
 
 <div align="center">
 
-## 🚀 Featured Projects - Building with Purpose
+## 🚀 Featured Projects
+
+*Where ideas take flight*
 
 </div>
 
+<br/>
+
+<!-- Project Cards -->
 <table>
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### 🧠 ThinkSpace
-**AI-Powered Productivity Workspace**
+**AI-Powered Developer Workspace**
 
-A comprehensive productivity platform designed specifically for developers, featuring intelligent note-taking, GitHub-style task management, and AI-powered assistance.
+</div>
 
-**✨ Key Features:**
-- Smart notes with AI integration
-- Intuitive task tracking system
+Your intelligent companion for productivity. ThinkSpace combines smart note-taking, task management, and AI assistance into one seamless experience.
 
-**🛠️ Tech Stack:**  
-`React` `Node.js` `MongoDB` `AI APIs` `Express`
+**🌟 Highlights:**
+- 📝 Smart notes with AI integration
+- ✅ GitHub-style task tracking
+- 🤖 AI-powered assistance
+- 🎨 Beautiful, intuitive interface
 
-[![View Project](https://img.shields.io/badge/View_Project-FFB627?style=for-the-badge&logo=github&logoColor=000)](https://github.com/Vaibhavii3)
+**Tech Stack:**  
+`React` `Node.js` `MongoDB` `Express` `AI APIs`
+
+<div align="center">
+
+[![Explore](https://img.shields.io/badge/Explore_Project-FF9800?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhavii3)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
+
+<div align="center">
 
 ### 🤖 AIChecker
-**Intelligent Content Enhancement Tool**
+**Intelligent Content Optimizer**
 
-Advanced content analysis and optimization tool powered by Google Gemini API, providing real-time suggestions and intelligent content improvements.
+</div>
 
-**✨ Key Features:**
-- Real-time content optimization
-- Smart grammar and style suggestions
-- AI-powered enhancements
-- Clean, intuitive interface
+Elevate your writing with AI-powered suggestions and real-time enhancements using Google Gemini API.
 
-**🛠️ Tech Stack:**  
- `TypeScript` `Gemini API` 
+**🌟 Highlights:**
+- ⚡ Real-time optimization
+- 🎯 Smart grammar checks
+- ✨ Style suggestions
+- 🚀 Clean UI/UX
 
-[![View Project](https://img.shields.io/badge/View_Project-FFB627?style=for-the-badge&logo=github&logoColor=000)](https://github.com/Vaibhavii3)
+**Tech Stack:**  
+`TypeScript` `Gemini API` `Modern Web Tech`
+
+<div align="center">
+
+[![Explore](https://img.shields.io/badge/Explore_Project-FF9800?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhavii3)
+
+</div>
 
 </td>
 </tr>
@@ -196,133 +217,277 @@ Advanced content analysis and optimization tool powered by Google Gemini API, pr
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### 💼 Freelancer CRM
-**Complete Client Management System**
+**Complete Client Management**
 
-Streamlined CRM solution for freelancers to manage clients, projects, invoices, and communications all in one place.
+</div>
 
-**✨ Key Features:**
-- Project & client management
-- Invoice tracking & generation
+Streamlined solution for freelancers to manage clients, projects, and invoices all in one place.
 
-**🛠️ Tech Stack:**  
-`TypeScript` `Node.js`  `MongoDB` `Express` 
+**🌟 Highlights:**
+- 👥 Client management
+- 📊 Project tracking
+- 💰 Invoice generation
+- 📈 Analytics dashboard
 
-[![View Project](https://img.shields.io/badge/View_Project-FFB627?style=for-the-badge&logo=github&logoColor=000)](https://github.com/Vaibhavii3)
+**Tech Stack:**  
+`TypeScript` `Node.js` `MongoDB` `Express`
+
+<div align="center">
+
+[![Explore](https://img.shields.io/badge/Explore_Project-FF9800?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhavii3)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🎯 More Projects Coming Soon!
+**Always Building**
+
+</div>
+
+I'm constantly working on exciting new projects. Check out my repositories to see what I'm building!
+
+**Currently Exploring:**
+- 🤖 Advanced AI integrations
+- 📱 Mobile applications
+- 🎨 Creative coding
+
+<div align="center">
+
+[![View All](https://img.shields.io/badge/View_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhavii3?tab=repositories)
+
+</div>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-[![View All Projects](https://img.shields.io/badge/View_All_Projects-Explore_More-FF9800?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhavii3?tab=repositories)
-
-</div>
+<br/>
 
 ---
 
 <div align="center">
 
-## 📊 GitHub Statistics - My Coding Journey
+## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaibhavii3&show_icons=true&theme=vue&hide_border=true&bg_color=FFF8DC&title_color=FF9800&icon_color=FFB627&text_color=5D4E37&ring_color=FFD700" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavii3&theme=vue&hide_border=true&background=FFF8DC&ring=FFB627&fire=FF9800&currStreakLabel=FF9800&sideLabels=5D4E37&dates=5D4E37&currStreakNum=5D4E37&sideNums=5D4E37" />
+*My coding journey in numbers*
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavii3&layout=compact&theme=vue&hide_border=true&bg_color=FFF8DC&title_color=FF9800&text_color=5D4E37" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavii3&theme=vue&bg_color=FFF8DC&color=5D4E37&line=FFB627&point=FF9800&area=true&hide_border=true" />
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400"> -->
 
 </div>
+
+<br/>
 
 <div align="center">
 
-## 💭 Daily Developer Wisdom
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue&border=true" />
+<!-- GitHub Stats Cards -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhavii3&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF9800&icon_color=FFD700&text_color=FFFFFF&ring_color=FF9800&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavii3&theme=radical&hide_border=true&background=0D1117&ring=FF9800&fire=FFD700&currStreakLabel=FF9800&sideLabels=FFFFFF&dates=888888" />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<!-- Language Stats and Activity -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavii3&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF9800&text_color=FFFFFF&langs_count=8" />
+<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavii3&theme=github-dark&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FF9800&point=FFD700&area=true&area_color=FF9800" />
+
+</div>
+
+<br/>
+
+<!-- Contribution Snake -->
+<!-- <div align="center">
+<img src="https://github.com/Vaibhavii3/Vaibhavii3/blob/output/github-contribution-grid-snake-dark.svg" alt="snake">
+</div> -->
+
+<br/>
 
 ---
 
 <div align="center">
 
-## 🤝 Open to Collaboration
+## 🎯 What I Bring to Your Team
 
 </div>
 
-<table align="center">
+<br/>
+
+<div align="center">
+
+<table>
 <tr>
 <td align="center" width="25%">
-
-**🎯**  
-**Freelance Projects**  
-*Let's build something amazing*
-
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+<br/><br/>
+<strong>Clean Code</strong>
+<br/>
+<em>Maintainable & scalable solutions</em>
 </td>
+
 <td align="center" width="25%">
-
-**💼**  
-**Full-time Roles**  
-*Ready for new challenges*
-
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
+<br/><br/>
+<strong>Fast Delivery</strong>
+<br/>
+<em>Efficient & timely execution</em>
 </td>
+
 <td align="center" width="25%">
-
-**🚀**  
-**Startup Ventures**  
-*Innovate together*
-
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+<br/><br/>
+<strong>Problem Solving</strong>
+<br/>
+<em>Creative & analytical thinking</em>
 </td>
 
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
+<br/><br/>
+<strong>Team Player</strong>
+<br/>
+<em>Great communication skills</em>
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-### 💡 What I Bring to the Table:
-
-🌻 **Clean, Maintainable Code** • ⚡ **Fast Delivery** • 🎯 **Problem-Solving Mindset**  
-🤝 **Great Communication** • 📚 **Continuous Learning** • 💪 **Dedication to Excellence**
-
-[![Let's Connect](https://img.shields.io/badge/Let's_Connect-Start_a_Conversation-FFB627?style=for-the-badge&logo=telegram&logoColor=000)](https://linkedin.com/in/vaibhavi-chaudhari-1b003120b)
-
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-*Every chai ☕ helps me create more awesome projects!*
+## 🌟 Philosophy & Approach
 
 </div>
+
+<br/>
+
+<div align="center">
+
+> *"Clean code isn't written by following rules—  
+> it's written by someone who cares."*
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```javascript
+const myApproach = {
+  codeQuality: "First-class citizen",
+  userExperience: "Always priority",
+  learning: "Never stops",
+  collaboration: "Open source mindset",
+  innovation: "Constant exploration",
+  motto: "Like a sunflower—always turning towards growth and light 🌻"
+};
+```
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-## 📫 Get In Touch
+## 🤝 Let's Build Something Amazing!
 
-**Let's create something extraordinary together! 🌻**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavi-chaudhari-1b003120b)
-[![Email](https://img.shields.io/badge/Email-vaibhu930@gmail.com-FF9800?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhu930@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-vaibhavi--chaudhari.vercel.app-FFB627?style=for-the-badge&logo=google-chrome&logoColor=000)](https://vaibhavi-chaudhari.vercel.app/)
+*Open to exciting opportunities and collaborations*
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
+<br/><strong>Freelance Projects</strong>
+<br/><em>Ready to bring your ideas to life</em>
+</td>
+
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="60" />
+<br/><strong>Full-Time Roles</strong>
+<br/><em>Looking for the next challenge</em>
+</td>
+
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="60" />
+<br/><strong>Startup Ventures</strong>
+<br/><em>Let's innovate together</em>
+</td>
+
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122003-15d1a762-1704-42fb-9fe1-4ceddc8583d4.png" width="60" />
+<br/><strong>Open Source</strong>
+<br/><em>Contributing to the community</em>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer" />
+## 💬 Connect With Me
 
-### 🌻 Like a sunflower, always turning towards growth and light
+*Let's turn ideas into reality!*
+
+<br/>
+
+<!-- Social Links with Hover Effect -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaibhavi_Chaudhari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/vaibhavi-chaudhari-1b003120b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF9800?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF9800)](https://vaibhavi-chaudhari.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:vaibhu930@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@Vaibhavii3-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Vaibhavii3)
+
+<br/><br/>
+
+<!-- Quote Section -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Code%20is%20poetry%20written%20in%20logic" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 🌻 *Like a sunflower, always turning towards growth and light*
+
+<br/>
 
 **Made with 💛 and lots of ☕ by Vaibhavi**
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+<br/>
 
-![Footer](https://img.shields.io/badge/Thank_You_For_Visiting!-🌻-FFB627?style=for-the-badge)
+*"The best way to predict the future is to create it."*
+
+<br/>
+
+![Thank You](https://img.shields.io/badge/Thanks_For_Visiting!-🌻-FFD700?style=for-the-badge&labelColor=FF9800)
+
+<br/>
 
 </div>
