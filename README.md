@@ -1,69 +1,32 @@
 <div align="center">
 
-
-<div align="center">
-
 ## 🌻 Hey there! I'm Vaibhavi
 
-### Full-Stack Developer • AI Explorer • Digital Architect
+### Full-Stack Developer • AI Enthusiast • Lifelong Learner
 
 *Building bridges between imagination and implementation*
-
 </div>
+
+## 👋 About Me
+
+Hey! I'm a full-stack developer from Gujarat, India with a B.E. in Computer Science (AI/ML specialization). I love crafting clean, scalable solutions and turning complex problems into elegant code.
+
+### 🎯 What I'm up to:
+
+- Sharpening my problem-solving skills on LeetCode
+- Learning Japanese (日本語の勉強中!)
+- Building AI-powered applications
+- Exploring new technologies and frameworks
+
+💭 **My Philosophy:** Code with purpose, design with empathy, and never stop learning
 
 <br/>
 
-<!-- Glowing About Me Section -->
-<!-- <div align="center"> -->
-<img width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
-</div>
-
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  education: string;
-  currentMission: string[];
-  techPassion: string[];
-  superpower: string;
-  dailyFuel: string;
-  collaborationMode: 'always-on';
-}
-
-const vaibhavi: Developer = {
-  name: "Vaibhavi Chaudhari",
-  role: "Full-Stack Developer & AI Enthusiast",
-  location: "Gujarat, India 🇮🇳",
-  education: "B.E. in CSE (AI/ML Specialization)",
-  
-  currentMission: [
-    "🎯 Mastering AI Integration",
-    "💻 Crafting Scalable Solutions", 
-    "🚀 Building Developer Tools"
-  ],
-  
-  techPassion: [
-    "Clean Architecture",
-    "User-Centric Design",
-    "Performance Optimization",
-    "Continuous Innovation"
-  ],
-  
-  superpower: "Turning complex problems into elegant solutions",
-  dailyFuel: "Chai ☕ + Curiosity 🔍 + Code 💻",
-  collaborationMode: 'always-on'
-};
-
-// Ready to create something amazing? Let's connect! 🚀
-console.log(`${vaibhavi.name}: Building the future, one commit at a time 🌻`);
-```
-
-<div align="center">
-
 ---
 
-## 🎨 My Tech Palette
+<div align="center">
+  
+### 🎨 My Tech Palette
 
 *Tools I use to paint digital masterpieces*
 
@@ -358,42 +321,6 @@ I'm constantly working on exciting new projects. Check out my repositories to se
 </td>
 </tr>
 </table>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 🌟 Philosophy & Approach
-
-</div>
-
-<br/>
-
-<div align="center">
-
-> *"Clean code isn't written by following rules—  
-> it's written by someone who cares."*
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```javascript
-const myApproach = {
-  codeQuality: "First-class citizen",
-  userExperience: "Always priority",
-  learning: "Never stops",
-  collaboration: "Open source mindset",
-  innovation: "Constant exploration",
-  motto: "Like a sunflower—always turning towards growth and light 🌻"
-};
-```
 
 </div>
 
