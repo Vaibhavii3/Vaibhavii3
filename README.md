@@ -152,7 +152,7 @@ Your intelligent companion for productivity. ThinkSpace combines smart note-taki
 
 <div align="center">
 
-### 🤖 AIChecker
+### 🤖 AI Writing Assistant
 **Intelligent Content Optimizer**
 
 </div>
@@ -161,12 +161,15 @@ Elevate your writing with AI-powered suggestions and real-time enhancements usin
 
 **🌟 Highlights:**
 - ⚡ Real-time optimization
-- 🎯 Smart grammar checks
+- ✓ Spell Check
+- 🌐 Enhance Vocabulary
+- 🎯 Goal-Based Writing
+- 🔍 Analyze Writing
 - ✨ Style suggestions
 - 🚀 Clean UI/UX
 
 **Tech Stack:**  
-`TypeScript` `Gemini API` `Modern Web Tech`
+`React` `Gemini API` `Modern Web Tech`
 
 <div align="center">
 
